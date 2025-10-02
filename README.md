@@ -1,5 +1,2 @@
 # CelebA Face Recognition Project
-[![Watch the video]
-
-(https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Thumbnail.jpg)]
-(https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Celeba.mp4)
+[![Watch the video](https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Thumbnail.jpg)](https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Celeba.mp4)
