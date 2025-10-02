@@ -50,5 +50,5 @@ Training Progress (Sample Epoch Outputs)
 - Epoch 20: Train Acc 80.47%, Val Acc 85.40%
 - Epoch 30: Train Acc 85.94%, Val Acc 90.50%
 
-## Click picture to watch the video
+## Click picture to view video of dataset
 [![Watch the video](https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Thumbnail.png)](https://raw.githubusercontent.com/boydjawun/CelebA-Facial-Recognition-Project/main/Celeba.mp4)
