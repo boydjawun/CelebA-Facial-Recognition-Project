@@ -1,5 +1,4 @@
 # CelebA-Facial-Recognition-Progect
-CelebA Facial Recognition Project
 This project implements a Convolutional Neural Network (CNN) using PyTorch to perform facial attribute recognition on the CelebA dataset, specifically focusing on detecting the “smiling” attribute. The model classifies images as smiling (1) or not smiling (0) based on facial features.
 Overview
 •  Dataset: CelebA (Large-scale CelebFaces Attributes Dataset), which contains over 200,000 celebrity images annotated with 40 attributes.
